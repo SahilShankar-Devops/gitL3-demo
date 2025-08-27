@@ -1,3 +1,4 @@
 line1 from local
 line2 from remote
 line3 from remote
+Added new line for incremental changes
